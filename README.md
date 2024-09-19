@@ -3,7 +3,7 @@
 ## Introduction
 In this diabetes classification project, the objective is to predict whether a patient has diabetes (1) or not (0) based on various health indicators. The dataset encompasses several features including the number of pregnancies, glucose level, blood pressure, skin thickness, insulin levels, BMI, and the diabetes pedigree function, which assesses genetic predisposition to diabetes. The goal is to build an effective machine learning model to classify patients into diabetic or non-diabetic categories, using the "Outcome" variable as the target for prediction.
 
-## Data: For more information[here](https://www.kaggle.com/datasets/nancyalaswad90/review)
+## Data: For more information [here](https://www.kaggle.com/datasets/nancyalaswad90/review)
 The dataset used in this project includes the following attributes:
 - **Pregnancies:** Number of pregnancies experienced by the patient.
 - **Glucose:** Glucose level in the blood, a key indicator of diabetes.
